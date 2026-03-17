@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# OS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Node
+node_modules/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
