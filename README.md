@@ -1,6 +1,6 @@
 # DevOps Zero to Hero in 30 Days
 
-### A hands-on, ADHD-friendly DevOps roadmap inspired by [Abhishek Veeramalla](https://github.com/iam-veeramalla)
+### A hands-on, DevOps roadmap inspired by [Abhishek Veeramalla](https://github.com/iam-veeramalla)
 
 > "The best way to learn DevOps is to do DevOps." — every SRE ever
 
